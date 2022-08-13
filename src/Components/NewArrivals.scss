@@ -1,0 +1,20 @@
+.newArrivals-title{
+    font-weight: 900;
+    font-size: 48px;
+    line-height: 50px;
+    letter-spacing: 0.06em;
+    margin-top: 5rem;
+    
+}
+
+
+
+
+.newArrivals-figure1{
+    display: inline-block;
+    position: absolute;
+    margin-left: clamp(3em, 25vw, 13em);
+
+    margin-top: -2.5em;
+    z-index: -1;
+}

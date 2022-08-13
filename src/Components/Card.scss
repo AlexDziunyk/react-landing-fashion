@@ -1,0 +1,41 @@
+.card-cont{
+    display: inline-block;
+    margin-top: 5rem;
+    max-width: 95%;
+}   
+
+.card-title{
+    margin-top: 1.5rem;
+    font-size: 32px;
+    letter-spacing: -0.04em;
+    color: #191919;
+}
+
+.card-subtitle{
+    margin-top: 0.5rem;
+    font-size: 24px;
+    letter-spacing: -0.04em;
+    color: #7F7F7F;
+}
+
+.card-arrow{
+    cursor: pointer;
+    
+    margin-top: 1.5rem;
+    margin-right: 0.5rem;
+    transition:  100ms ease-in-out ;
+    &:hover{
+        margin-right: 0;
+    }
+
+    img{
+        
+        height: auto;
+        padding: 0;
+        margin: 0;
+    }
+
+
+}
+
+

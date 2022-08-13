@@ -1,0 +1,50 @@
+.voucher-textBlock{
+    margin-left: 1.5em;
+    
+    
+}
+
+
+.voucher-title{
+    
+    font-weight: 900;
+    font-size: clamp(2rem, 10vw, 3rem);
+    line-height: clamp(40px, 10vw, 55px);
+    letter-spacing: 0.06em;
+    color: #000000;
+    
+}
+
+.voucher-subtitle{
+    margin-top: 1em;
+    font-size: 1.5rem;
+    line-height: 35px;
+    letter-spacing: -0.04em;
+    color: #7C7C7C;
+}
+
+.voucher-apps{
+    margin-top: 4em;
+    display: flex;
+    img{
+        cursor: pointer;
+        margin-right: 20px;
+        max-width: 40%;
+        max-height: 40%;
+    }
+
+}
+
+.voucher-imgBack{
+    
+    z-index: -1;
+    position: absolute;
+    margin-left: -0.5em;
+    
+}
+
+.voucher-imgBlock{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}

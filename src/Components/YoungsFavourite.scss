@@ -1,0 +1,15 @@
+.young-title{
+    font-weight: 900;
+    font-size:  clamp(2rem, 5vw, 3rem);
+    letter-spacing: 0.06em;
+    margin-top: 3em;
+}
+
+.young-figure1{
+    display: inline-block;
+    position: absolute;
+    margin-left: clamp(5em, 25vw, 20em);
+    margin-top: -2.5em;
+    z-index: -1;
+}
+
