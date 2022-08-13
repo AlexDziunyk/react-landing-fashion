@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/react-landing-fashion/static/css/main.e918af6f.css",
+    "main.js": "/react-landing-fashion/static/js/main.ca7d3c3e.js",
+    "static/js/787.c2c1715b.chunk.js": "/react-landing-fashion/static/js/787.c2c1715b.chunk.js",
+    "static/media/girl.png": "/react-landing-fashion/static/media/girl.6d789d1dc9e596d7d63f.png",
+    "static/media/FaceImg.png": "/react-landing-fashion/static/media/FaceImg.1d7c9923e66783bc42bf.png",
+    "static/media/cardimg4.png": "/react-landing-fashion/static/media/cardimg4.ebb3d01ae86238388d2d.png",
+    "static/media/cardimg3.png": "/react-landing-fashion/static/media/cardimg3.3dcccd6c32b6d753bc52.png",
+    "static/media/cardimg1.png": "/react-landing-fashion/static/media/cardimg1.3c951115a3f8654407be.png",
+    "static/media/mobileApp.png": "/react-landing-fashion/static/media/mobileApp.5aac824ef311570161db.png",
+    "static/media/cardimg5.png": "/react-landing-fashion/static/media/cardimg5.a6280ecf8e0c77611229.png",
+    "static/media/cardimg2.png": "/react-landing-fashion/static/media/cardimg2.2cce9612a92a53b30f45.png",
+    "static/media/details.png": "/react-landing-fashion/static/media/details.e02d32ca53cf8c4ad27a.png",
+    "static/media/logo3.png": "/react-landing-fashion/static/media/logo3.4df91f26f3471524b910.png",
+    "static/media/logo6.png": "/react-landing-fashion/static/media/logo6.1057e4551efb9e8e5880.png",
+    "static/media/logo4.png": "/react-landing-fashion/static/media/logo4.acf33febe2e2af7f0231.png",
+    "index.html": "/react-landing-fashion/index.html",
+    "main.e918af6f.css.map": "/react-landing-fashion/static/css/main.e918af6f.css.map",
+    "main.ca7d3c3e.js.map": "/react-landing-fashion/static/js/main.ca7d3c3e.js.map",
+    "787.c2c1715b.chunk.js.map": "/react-landing-fashion/static/js/787.c2c1715b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e918af6f.css",
+    "static/js/main.ca7d3c3e.js"
+  ]
+}
